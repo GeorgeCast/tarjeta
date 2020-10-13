@@ -1,0 +1,16 @@
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\bin\Debug\netcoreapp2.2\BakcEnd.deps.json
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\bin\Debug\netcoreapp2.2\BakcEnd.runtimeconfig.json
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\bin\Debug\netcoreapp2.2\BakcEnd.runtimeconfig.dev.json
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\bin\Debug\netcoreapp2.2\BakcEnd.dll
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\bin\Debug\netcoreapp2.2\BakcEnd.pdb
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\obj\Debug\netcoreapp2.2\BakcEnd.csprojAssemblyReference.cache
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\obj\Debug\netcoreapp2.2\BakcEnd.RazorAssemblyInfo.cache
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\obj\Debug\netcoreapp2.2\BakcEnd.RazorAssemblyInfo.cs
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\obj\Debug\netcoreapp2.2\BakcEnd.AssemblyInfoInputs.cache
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\obj\Debug\netcoreapp2.2\BakcEnd.AssemblyInfo.cs
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\obj\Debug\netcoreapp2.2\BakcEnd.RazorTargetAssemblyInfo.cache
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\obj\Debug\netcoreapp2.2\BakcEnd.dll
+C:\Users\u38814\Desktop\TarjetaCredito\BakcEnd\obj\Debug\netcoreapp2.2\BakcEnd.pdb
